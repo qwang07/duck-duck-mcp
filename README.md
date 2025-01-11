@@ -2,6 +2,8 @@
 
 一个基于 DuckDuckGo 搜索引擎的 Model Context Protocol (MCP) 服务器实现。
 
+<a href="https://glama.ai/mcp/servers/c0qz8cvfpi"><img width="380" height="200" src="https://glama.ai/mcp/servers/c0qz8cvfpi/badge" alt="Duck Duck MCP server" /></a>
+
 ## 功能特性
 
 - 使用 DuckDuckGo 进行网络搜索
