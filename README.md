@@ -1,5 +1,5 @@
 # Duck Duck MCP
-[![smithery badge](https://smithery.ai/badge/duck-duck-mcp)](https://smithery.ai/server/duck-duck-mcp)
+[![LightNow capabilities](https://lightnow.ai/badge/io.github.qwang07/duck-duck-mcp)](https://lightnow.ai/servers/io.github.qwang07/duck-duck-mcp)
 
 一个基于 DuckDuckGo 搜索引擎的 Model Context Protocol (MCP) 服务器实现。
 
